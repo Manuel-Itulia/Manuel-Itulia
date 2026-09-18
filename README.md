@@ -1,16 +1,19 @@
-## Hi there 👋
+Manuel Itulia | Python Developer | Automation & AI-Powered Tools
 
-<!--
-**Manuel-Itulia/Manuel-Itulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building scripts and applications that take repetitive tasks off people's plates. Based in Nairobi, Kenya.
 
-Here are some ideas to get you started:
+What I Build
+Automation - scripts and tools handling repetitive tasks: file processing, data cleanup, report generation, scheduled tasks
+AI tools - integrating LLM APIs into practical workflows (chatbots, data extraction/summmarization)
+Data handling - CSV/Excel processing, cleaning and transforming datasets with 'csv' and 'pandas'
+Engineering solutions - filtering, handle FFTs, and noise analysis using 'numpy'
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Projects
+
+Exploring automation scripts: building small, useful tools end-to-end
+smp-tracker: Daily performance tracker with ML-powered coaching
+api-dashboard: Multi-endpoint data dashboard with pandas reports
+browser-coach: Client-side AI coaching tool in JavaScript
+
+Stack
+Python • FastAPI • Pandas • scikit-learn • JavaScript • Git • Supabase
